@@ -1,4 +1,4 @@
-# Flask Strater Files
+# Flask Starter Files
 
 ## Description
 
